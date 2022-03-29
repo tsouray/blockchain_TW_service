@@ -1,2 +1,2 @@
 # blockchain_TW_service
-Download file then open it.
+Download "區塊鏈服務資料.pages" file then open it.
